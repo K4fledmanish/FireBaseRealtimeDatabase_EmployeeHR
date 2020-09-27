@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>246830347374-qh9vv20qaaqntr063gah28cmrqdravk6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.246830347374-qh9vv20qaaqntr063gah28cmrqdravk6</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC8sdGh3RNFKnMSGYh7GfQeuHpTVA_UohM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>246830347374</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>K4fledmanish..FireBaseRealtimeDatabase-EmployeeHR</string>
+	<key>PROJECT_ID</key>
+	<string>fir-db-prog-hrms-app1-94905</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-db-prog-hrms-app1-94905.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:246830347374:ios:225a0a98924455f0b8a27f</string>
+	<key>DATABASE_URL</key>
+	<string>https://fir-db-prog-hrms-app1-94905.firebaseio.com</string>
+</dict>
+</plist>

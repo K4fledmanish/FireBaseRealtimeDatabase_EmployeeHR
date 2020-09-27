@@ -16,6 +16,7 @@
 		DA7CE6E225214E5000CFAD42 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = DA7CE6E125214E5000CFAD42 /* main.m */; };
 		DA7CE6EC25214E5000CFAD42 /* FireBaseRealtimeDatabase_EmployeeHRTests.m in Sources */ = {isa = PBXBuildFile; fileRef = DA7CE6EB25214E5000CFAD42 /* FireBaseRealtimeDatabase_EmployeeHRTests.m */; };
 		DA7CE6F725214E5000CFAD42 /* FireBaseRealtimeDatabase_EmployeeHRUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = DA7CE6F625214E5000CFAD42 /* FireBaseRealtimeDatabase_EmployeeHRUITests.m */; };
+		DA7CE70825214FDB00CFAD42 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = DA7CE70725214FDB00CFAD42 /* GoogleService-Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,7 @@
 		DA7CE6F225214E5000CFAD42 /* FireBaseRealtimeDatabase_EmployeeHRUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FireBaseRealtimeDatabase_EmployeeHRUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DA7CE6F625214E5000CFAD42 /* FireBaseRealtimeDatabase_EmployeeHRUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FireBaseRealtimeDatabase_EmployeeHRUITests.m; sourceTree = "<group>"; };
 		DA7CE6F825214E5000CFAD42 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DA7CE70725214FDB00CFAD42 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 		DA7CE6CE25214E4D00CFAD42 /* FireBaseRealtimeDatabase_EmployeeHR */ = {
 			isa = PBXGroup;
 			children = (
+				DA7CE70725214FDB00CFAD42 /* GoogleService-Info.plist */,
 				DA7CE6CF25214E4D00CFAD42 /* AppDelegate.h */,
 				DA7CE6D025214E4D00CFAD42 /* AppDelegate.m */,
 				DA7CE6D225214E4D00CFAD42 /* SceneDelegate.h */,
@@ -240,6 +243,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DA7CE6DF25214E5000CFAD42 /* LaunchScreen.storyboard in Resources */,
+				DA7CE70825214FDB00CFAD42 /* GoogleService-Info.plist in Resources */,
 				DA7CE6DC25214E5000CFAD42 /* Assets.xcassets in Resources */,
 				DA7CE6DA25214E4D00CFAD42 /* Main.storyboard in Resources */,
 			);
